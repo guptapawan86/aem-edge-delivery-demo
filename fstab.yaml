@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p137117-e1400714.adobeaemcloud.com/bin/franklin.delivery/guptapawan86/aem-edge-delivery-demo/main"
+    url: "https://author-p137117-e1400638.adobeaemcloud.com/bin/franklin.delivery/guptapawan86/aem-edge-delivery-demo/stage"
     type: "markup"
     suffix: ".html"
